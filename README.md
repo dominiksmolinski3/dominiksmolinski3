@@ -31,6 +31,9 @@ I'm currently studying at the University of Warmia and Mazury in Poland. My pass
 
 ## 📫 Contact
 
-- **LinkedIn:** [linkedin.com/in/dominiksmolinski3](https://www.linkedin.com/in/dominiksmolinski3/)
+- **LinkedIn:** [linkedin :)](https://www.linkedin.com/in/dominiksmolinski3/)
 
 I am eager to collaborate on projects related to DevOps and cloud solutions. Feel free to reach out!
+
+## 📜 Certifications
+- **IBM DevOps and Software Engineering:** [IBM certification](https://www.coursera.org/account/accomplishments/professional-cert/R6APNLIZM4BN)
