@@ -12,7 +12,7 @@ I'm currently studying at the University of Warmia and Mazury in Poland. My pass
   - **Docker, Docker-compose, Kubernetes, AKS**
   - **Terraform**
   - **Azure Pipelines, GitHub Actions**
-  - **Azure DevOps, **
+  - **Azure DevOps**
   - **Prometheus/Grafana/ELK Stack:** Currently unfamiliar, but planning to learn these as part of my stack in the future.
   - **Git/GitHub:**  
     - Used it for 3 years and counting,
