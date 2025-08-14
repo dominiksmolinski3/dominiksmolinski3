@@ -36,5 +36,5 @@ I am eager to collaborate on projects related to DevOps and cloud solutions. Fee
 
 ## 📜 Certifications
 - **IBM DevOps and Software Engineering:** [IBM certification](https://www.coursera.org/account/accomplishments/professional-cert/R6APNLIZM4BN)
-- **Microsoft Certified: Azure Fundamentals (AZ-900):** [Microsoft certification]([https://learn.microsoft.com/api/credentials/share/en-us/DominikSmoliski-2756/6FFC378D47ABD14C?sharingId=90827C4784344D35])
+- **Microsoft Certified: Azure Fundamentals (AZ-900):** [Microsoft certification](https://learn.microsoft.com/api/credentials/share/en-us/DominikSmoliski-2756/6FFC378D47ABD14C?sharingId=90827C4784344D35)
   
