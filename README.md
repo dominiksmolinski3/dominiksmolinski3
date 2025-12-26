@@ -13,7 +13,7 @@ My passions lie in modern technologies, particularly DevOps and cloud computing/
   - **Terraform**
   - **Azure Pipelines, GitHub Actions**
   - **Azure DevOps**
-  - **Git/GitHub**
+  - **Git/GitHub/Azure Repos**
    
 - **Cloud Provider:**  
   - **Azure**
