@@ -1,6 +1,5 @@
 # Welcome to my GitHub profile! 👋
 
-Hey, Dominik here! :)
 My passions lie in modern technologies, particularly DevOps and cloud computing/solutions.
 
 ## 🔧 Stack
